@@ -25,6 +25,8 @@
             <p>O seriado conta a história de um dos 10 mais procurados pelo FBI, que se </br>entrega para a policía em troca de uma lista que o FBI nunca nem ouviu </br>falar sobre os criminosos nela.</p></p>   
         </p>
     </body>
-    <footer>Autor: Guilherme Plakitka Fofano </br>
-            <a href="https://www.linkedin.com/in/guilherme-fofano-579615152/" target="_blank">Ir para meu Linkedin</a></footer>
+    <footer>
+        <b style="font-size: small;"> Guilherme Plakitka Fofano</b></br>
+            <a href="https://www.linkedin.com/in/guilherme-fofano-579615152/" target="_blank" style="font-size: xx-small;">Ir para meu Linkedin</a>
+        </footer>
 </html>
